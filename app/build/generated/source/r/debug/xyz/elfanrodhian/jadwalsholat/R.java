@@ -3995,7 +3995,7 @@ public final class R {
     public static final int tooltip=0x7f0a0044;
   }
   public static final class menu {
-    public static final int menu_tab=0x7f0b0000;
+    public static final int menu_tab2=0x7f0b0000;
   }
   public static final class mipmap {
     public static final int ic_launcher=0x7f0c0000;
@@ -4066,13 +4066,12 @@ public final class R {
     public static final int path_password_eye_mask_visible=0x7f0e003a;
     public static final int path_password_strike_through=0x7f0e003b;
     public static final int search_menu_title=0x7f0e003c;
-    public static final int section_format=0x7f0e003d;
-    public static final int status_bar_notification_info_overflow=0x7f0e003e;
-    public static final int tab_text_1=0x7f0e003f;
-    public static final int tab_text_2=0x7f0e0040;
-    public static final int tab_text_3=0x7f0e0041;
-    public static final int title_activity_masjid=0x7f0e0042;
-    public static final int title_activity_tab=0x7f0e0043;
+    public static final int status_bar_notification_info_overflow=0x7f0e003d;
+    public static final int tab_text_1=0x7f0e003e;
+    public static final int tab_text_2=0x7f0e003f;
+    public static final int tab_text_3=0x7f0e0040;
+    public static final int title_activity_masjid=0x7f0e0041;
+    public static final int title_activity_tab=0x7f0e0042;
   }
   public static final class style {
     public static final int AlertDialog_AppCompat=0x7f0f0000;

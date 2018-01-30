@@ -1072,10 +1072,6 @@
         "source": "/home/elfar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b0a35b7c2c3a9af23046c968550a9841/res/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/elfar/APK/JadwalSholatku/app/build/intermediates/res/merged/debug/menu_menu_tab.xml.flat",
-        "source": "/home/elfar/APK/JadwalSholatku/app/src/main/res/menu/menu_tab.xml"
-    },
-    {
         "merged": "/home/elfar/APK/JadwalSholatku/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "/home/elfar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b0a35b7c2c3a9af23046c968550a9841/res/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
@@ -1174,6 +1170,10 @@
     {
         "merged": "/home/elfar/APK/JadwalSholatku/app/build/intermediates/res/merged/debug/layout_select_dialog_item_material.xml.flat",
         "source": "/home/elfar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b0a35b7c2c3a9af23046c968550a9841/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/elfar/APK/JadwalSholatku/app/build/intermediates/res/merged/debug/menu_menu_tab2.xml.flat",
+        "source": "/home/elfar/APK/JadwalSholatku/app/src/main/res/menu/menu_tab2.xml"
     },
     {
         "merged": "/home/elfar/APK/JadwalSholatku/app/build/intermediates/res/merged/debug/drawable_design_password_eye.xml.flat",
