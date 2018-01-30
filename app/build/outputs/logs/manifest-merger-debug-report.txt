@@ -1,0 +1,303 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:2:1-75:12
+INJECTED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:2:1-75:12
+INJECTED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:2:1-75:12
+INJECTED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:2:1-75:12
+MERGED from [com.android.support:design:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/53865d397696a5c63d10e3254bc90f2a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/064253a51b5f9e9026580c37b3d1d865/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b0a35b7c2c3a9af23046c968550a9841/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/elfar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b3473233ef4d0f9eebe722c6e5d776cb/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/00845228ebb158536c9024607e89553b/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/367bb92f1e37e176220806a7c2f8884d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:transition:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/38715837cdebe141112477dda42f7c5d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/2c76cb831a78caba8f6823b25411bb99/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/5395b664010193802a7990ee5f86373a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/b8346495d8041873a1cd92b5a8695dc4/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/72464e13d4fe6133ff59a66d3b167aab/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/698a77d215955f08546e72e249302303/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/cd2fd7e2144aa13d730e26af95d485dc/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/739b5c034fbe68f45b645fe3fbd8d7de/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/b6edde3e4cc5f75101bb74fd99877d26/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c0ecdfbd1a6dd0ba1251cce9272cb031/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/1b654f359443db9132b11c2e1ec62d55/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d0411cad5737305f80907decf0445ea9/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.8.0.aar/a77cc36b486a0dd585afe5f5d536349f/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/e526a3a579ccc4fd4e48009e929f2b36/AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6835975744e748750fdb132ff3a944d5/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/2624f9751ff00f4ff4819223c71217ad/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/7f5b7ae339d335dcb11650ba16f53fda/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/3b0dd28d77cd148c17ac5a7621bf861d/AndroidManifest.xml:2:1-6:12
+INJECTED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:2:1-75:12
+INJECTED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:2:1-75:12
+INJECTED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:2:1-75:12
+	package
+		ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml
+		INJECTED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml
+		ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:2:1-75:12
+		INJECTED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml
+		ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:2:1-75:12
+		INJECTED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:11:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/00845228ebb158536c9024607e89553b/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/00845228ebb158536c9024607e89553b/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/00845228ebb158536c9024607e89553b/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/00845228ebb158536c9024607e89553b/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:12:22-64
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:13:5-98
+	android:name
+		ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:13:22-95
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:14:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:17:22-78
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:19:22-75
+uses-feature#0x00020000
+ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:22:5-24:35
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/00845228ebb158536c9024607e89553b/AndroidManifest.xml:26:5-28:35
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/00845228ebb158536c9024607e89553b/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:23:9-41
+	android:required
+		ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:24:9-32
+application
+ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:26:5-73:19
+MERGED from [com.android.support:design:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/53865d397696a5c63d10e3254bc90f2a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/53865d397696a5c63d10e3254bc90f2a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/064253a51b5f9e9026580c37b3d1d865/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/064253a51b5f9e9026580c37b3d1d865/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b0a35b7c2c3a9af23046c968550a9841/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b0a35b7c2c3a9af23046c968550a9841/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/elfar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b3473233ef4d0f9eebe722c6e5d776cb/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/elfar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b3473233ef4d0f9eebe722c6e5d776cb/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/00845228ebb158536c9024607e89553b/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/00845228ebb158536c9024607e89553b/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/367bb92f1e37e176220806a7c2f8884d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/367bb92f1e37e176220806a7c2f8884d/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:transition:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/38715837cdebe141112477dda42f7c5d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/38715837cdebe141112477dda42f7c5d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/2c76cb831a78caba8f6823b25411bb99/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/2c76cb831a78caba8f6823b25411bb99/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/5395b664010193802a7990ee5f86373a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/5395b664010193802a7990ee5f86373a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/b8346495d8041873a1cd92b5a8695dc4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/b8346495d8041873a1cd92b5a8695dc4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/72464e13d4fe6133ff59a66d3b167aab/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/72464e13d4fe6133ff59a66d3b167aab/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/698a77d215955f08546e72e249302303/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/698a77d215955f08546e72e249302303/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/cd2fd7e2144aa13d730e26af95d485dc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/cd2fd7e2144aa13d730e26af95d485dc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/739b5c034fbe68f45b645fe3fbd8d7de/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/739b5c034fbe68f45b645fe3fbd8d7de/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/b6edde3e4cc5f75101bb74fd99877d26/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/b6edde3e4cc5f75101bb74fd99877d26/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c0ecdfbd1a6dd0ba1251cce9272cb031/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c0ecdfbd1a6dd0ba1251cce9272cb031/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/1b654f359443db9132b11c2e1ec62d55/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/1b654f359443db9132b11c2e1ec62d55/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d0411cad5737305f80907decf0445ea9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d0411cad5737305f80907decf0445ea9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.8.0.aar/a77cc36b486a0dd585afe5f5d536349f/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.8.0.aar/a77cc36b486a0dd585afe5f5d536349f/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/e526a3a579ccc4fd4e48009e929f2b36/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/e526a3a579ccc4fd4e48009e929f2b36/AndroidManifest.xml:5:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6835975744e748750fdb132ff3a944d5/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6835975744e748750fdb132ff3a944d5/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/2624f9751ff00f4ff4819223c71217ad/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/2624f9751ff00f4ff4819223c71217ad/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/7f5b7ae339d335dcb11650ba16f53fda/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/7f5b7ae339d335dcb11650ba16f53fda/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/3b0dd28d77cd148c17ac5a7621bf861d/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/3b0dd28d77cd148c17ac5a7621bf861d/AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:31:9-35
+	android:label
+		ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:29:9-41
+	android:roundIcon
+		ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:30:9-54
+	android:icon
+		ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:28:9-43
+	android:allowBackup
+		ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:27:9-35
+	android:theme
+		ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:32:9-40
+activity#xyz.elfanrodhian.jadwalsholat.TodayActivity
+ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:33:9-51
+	android:name
+		ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:33:19-48
+activity#xyz.elfanrodhian.jadwalsholat.TabActivity
+ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:34:9-43:20
+	android:label
+		ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:36:13-55
+	android:theme
+		ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:37:13-56
+	android:name
+		ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:35:13-40
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:38:13-42:29
+action#android.intent.action.MAIN
+ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:41:27-74
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:62:9-64:55
+	android:value
+		ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:64:13-52
+	android:name
+		ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:63:13-58
+activity#xyz.elfanrodhian.jadwalsholat.Masjid
+ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:66:9-68:61
+	android:label
+		ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:68:13-58
+	android:name
+		ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:67:13-35
+service#xyz.elfanrodhian.jadwalsholat.Service.BGService
+ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:70:9-54
+	android:name
+		ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:70:18-51
+activity#xyz.elfanrodhian.jadwalsholat.JadwalActivity
+ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:72:9-61
+	android:name
+		ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml:72:19-49
+uses-sdk
+INJECTED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml
+INJECTED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/53865d397696a5c63d10e3254bc90f2a/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/53865d397696a5c63d10e3254bc90f2a/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/064253a51b5f9e9026580c37b3d1d865/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/064253a51b5f9e9026580c37b3d1d865/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b0a35b7c2c3a9af23046c968550a9841/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b0a35b7c2c3a9af23046c968550a9841/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/elfar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b3473233ef4d0f9eebe722c6e5d776cb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/elfar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b3473233ef4d0f9eebe722c6e5d776cb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/00845228ebb158536c9024607e89553b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/00845228ebb158536c9024607e89553b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/367bb92f1e37e176220806a7c2f8884d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/367bb92f1e37e176220806a7c2f8884d/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:transition:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/38715837cdebe141112477dda42f7c5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/38715837cdebe141112477dda42f7c5d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/2c76cb831a78caba8f6823b25411bb99/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/2c76cb831a78caba8f6823b25411bb99/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/5395b664010193802a7990ee5f86373a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/5395b664010193802a7990ee5f86373a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/b8346495d8041873a1cd92b5a8695dc4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/b8346495d8041873a1cd92b5a8695dc4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/72464e13d4fe6133ff59a66d3b167aab/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/72464e13d4fe6133ff59a66d3b167aab/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/698a77d215955f08546e72e249302303/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/698a77d215955f08546e72e249302303/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/cd2fd7e2144aa13d730e26af95d485dc/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/cd2fd7e2144aa13d730e26af95d485dc/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/739b5c034fbe68f45b645fe3fbd8d7de/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/739b5c034fbe68f45b645fe3fbd8d7de/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/b6edde3e4cc5f75101bb74fd99877d26/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/b6edde3e4cc5f75101bb74fd99877d26/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c0ecdfbd1a6dd0ba1251cce9272cb031/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c0ecdfbd1a6dd0ba1251cce9272cb031/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/1b654f359443db9132b11c2e1ec62d55/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/1b654f359443db9132b11c2e1ec62d55/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d0411cad5737305f80907decf0445ea9/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d0411cad5737305f80907decf0445ea9/AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.8.0.aar/a77cc36b486a0dd585afe5f5d536349f/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.8.0.aar/a77cc36b486a0dd585afe5f5d536349f/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/e526a3a579ccc4fd4e48009e929f2b36/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/e526a3a579ccc4fd4e48009e929f2b36/AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6835975744e748750fdb132ff3a944d5/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6835975744e748750fdb132ff3a944d5/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/2624f9751ff00f4ff4819223c71217ad/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/2624f9751ff00f4ff4819223c71217ad/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/7f5b7ae339d335dcb11650ba16f53fda/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/7f5b7ae339d335dcb11650ba16f53fda/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/3b0dd28d77cd148c17ac5a7621bf861d/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/3b0dd28d77cd148c17ac5a7621bf861d/AndroidManifest.xml:4:5-43
+INJECTED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml
+INJECTED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/53865d397696a5c63d10e3254bc90f2a/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml
+		ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml
+		INJECTED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml
+		ADDED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml
+		INJECTED from /home/elfar/APK/JadwalSholatku/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/53865d397696a5c63d10e3254bc90f2a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/064253a51b5f9e9026580c37b3d1d865/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/064253a51b5f9e9026580c37b3d1d865/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b0a35b7c2c3a9af23046c968550a9841/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b0a35b7c2c3a9af23046c968550a9841/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/38715837cdebe141112477dda42f7c5d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/38715837cdebe141112477dda42f7c5d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/72464e13d4fe6133ff59a66d3b167aab/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/72464e13d4fe6133ff59a66d3b167aab/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/698a77d215955f08546e72e249302303/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/698a77d215955f08546e72e249302303/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/cd2fd7e2144aa13d730e26af95d485dc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/cd2fd7e2144aa13d730e26af95d485dc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/739b5c034fbe68f45b645fe3fbd8d7de/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/739b5c034fbe68f45b645fe3fbd8d7de/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/b6edde3e4cc5f75101bb74fd99877d26/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/b6edde3e4cc5f75101bb74fd99877d26/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c0ecdfbd1a6dd0ba1251cce9272cb031/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c0ecdfbd1a6dd0ba1251cce9272cb031/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/1b654f359443db9132b11c2e1ec62d55/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/1b654f359443db9132b11c2e1ec62d55/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d0411cad5737305f80907decf0445ea9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d0411cad5737305f80907decf0445ea9/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/53865d397696a5c63d10e3254bc90f2a/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/53865d397696a5c63d10e3254bc90f2a/AndroidManifest.xml:27:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/2c76cb831a78caba8f6823b25411bb99/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/2c76cb831a78caba8f6823b25411bb99/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/2c76cb831a78caba8f6823b25411bb99/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/2c76cb831a78caba8f6823b25411bb99/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/b8346495d8041873a1cd92b5a8695dc4/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/b8346495d8041873a1cd92b5a8695dc4/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/b8346495d8041873a1cd92b5a8695dc4/AndroidManifest.xml:24:13-58
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6835975744e748750fdb132ff3a944d5/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6835975744e748750fdb132ff3a944d5/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6835975744e748750fdb132ff3a944d5/AndroidManifest.xml:26:13-58

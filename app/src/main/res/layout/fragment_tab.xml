@@ -1,0 +1,143 @@
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/constraintLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="xyz.elfanrodhian.jadwalsholat.TabActivity$PlaceholderFragment">
+
+    <FrameLayout
+        android:id="@+id/my_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/ini"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        tools:layout_editor_absoluteX="0dp"></FrameLayout>
+
+    <TextView
+        android:id="@+id/txtSubuh"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="8dp"
+        android:fontFamily="serif"
+        android:text="TextView"
+        android:textColor="@android:color/holo_orange_light"
+        android:textSize="24sp"
+        app:layout_constraintStart_toEndOf="@+id/textView"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/txtDhuhur"
+        android:layout_width="wrap_content"
+        android:layout_height="25dp"
+        android:layout_marginTop="8dp"
+        android:fontFamily="serif"
+        android:text="TextView"
+        android:textColor="@android:color/holo_orange_light"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="@+id/txtSubuh"
+        app:layout_constraintTop_toBottomOf="@+id/txtSubuh" />
+
+    <TextView
+        android:id="@+id/txtAshar"
+        android:layout_width="wrap_content"
+        android:layout_height="25dp"
+        android:layout_marginTop="8dp"
+        android:fontFamily="serif"
+        android:text="TextView"
+        android:textColor="@android:color/holo_orange_light"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="@+id/txtDhuhur"
+        app:layout_constraintTop_toBottomOf="@+id/txtDhuhur" />
+
+    <TextView
+        android:id="@+id/txtMagrib"
+        android:layout_width="wrap_content"
+        android:layout_height="25dp"
+        android:layout_marginTop="8dp"
+        android:fontFamily="serif"
+        android:text="TextView"
+        android:textColor="@android:color/holo_orange_light"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="@+id/txtAshar"
+        app:layout_constraintTop_toBottomOf="@+id/txtAshar" />
+
+    <TextView
+        android:id="@+id/txtIsya"
+        android:layout_width="wrap_content"
+        android:layout_height="25dp"
+        android:layout_marginTop="8dp"
+        android:fontFamily="serif"
+        android:text="TextView"
+        android:textColor="@android:color/holo_orange_light"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="@+id/txtMagrib"
+        app:layout_constraintTop_toBottomOf="@+id/txtMagrib" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:fontFamily="serif"
+        android:text="Subuh"
+        android:textColor="@android:color/holo_orange_light"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:fontFamily="serif"
+        android:text="Dhuhur"
+        android:textColor="@android:color/holo_orange_light"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="@+id/textView"
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:fontFamily="serif"
+        android:text="Ashar"
+        android:textColor="@android:color/holo_orange_light"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="@+id/textView2"
+        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:fontFamily="serif"
+        android:text="Magrib"
+        android:textColor="@android:color/holo_orange_light"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="@+id/textView3"
+        app:layout_constraintTop_toBottomOf="@+id/textView3" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:fontFamily="serif"
+        android:text="Isya'"
+        android:textColor="@android:color/holo_orange_light"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="@+id/textView4"
+        app:layout_constraintTop_toBottomOf="@+id/textView4" />
+
+</android.support.constraint.ConstraintLayout>
